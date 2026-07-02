@@ -8,30 +8,45 @@ Based in Makkah, Saudi Arabia
 
 ## About Me
 
-I'm a Computer Science student passionate about building intelligent, 
-practical solutions...
+I'm a Computer Science student passionate about building intelligent, practical solutions. My work blends software development, AI integration, and database design to create systems that actually help people learn and work better.
+I enjoy turning complex ideas — like predictive learning models or automated networks — into working products. Whether it's an AI-powered learning platform, a secure database, or a campus network, I'm always excited to design, build, and improve.
 
 ---
 
 ## Technical Experience
 
-Through my Computer Science studies and cooperative training at 
-Amanat Al-Asimah, I've gained hands-on skills including:
+Through my Computer Science studies and cooperative training at Amanat Al-Asimah (Holy Capital Municipality), I've gained hands-on skills including:
 
-- Developing full-stack applications with Java, responsive UI design, 
-  and database integration
-- Implementing AI models such as Bayesian Knowledge Tracing (BKT)...
+Developing full-stack applications with Java, responsive UI design, and database integration
+Implementing AI models such as Bayesian Knowledge Tracing (BKT) to power adaptive, personalized learning experiences
+Integrating Generative AI to deliver personalized feedback and explanations within applications
+Designing and managing relational databases using MySQL for real-world business operations
+Planning and designing network architecture for connectivity, security, and future scalability
+Working across the full project lifecycle — system analysis, UI/UX design, testing, and deployment
+Handling structured data entry, reporting, and organizational workflows in a professional government setting
 
 ---
 
 ## Projects
 
-**Quizora — Intelligent Adaptive Learning Platform**  
-An AI-powered e-learning platform...
+Quizora — Intelligent Adaptive Learning Platform
+An AI-powered e-learning platform that uses Bayesian Knowledge Tracing to predict learner mastery and Generative AI to deliver personalized feedback, complete with authentication and progress dashboards.
+Network Design for Jamoum University College
+A comprehensive campus network architecture designed for secure, reliable connectivity with room for future expansion.
+Pharmacy Management Database (MySQL)
+A relational database system managing drug, customer, and inventory data to support daily pharmacy operations.
+Movie Ticket Booking System
+A documented design for a secure, easy-to-use online movie ticket booking platform with seat selection and electronic payments.
+Currently Learning
+
+Advanced AI/ML techniques for personalized learning systems
+Backend development and API design
+Cloud deployment and hosting fundamentals
+Agile teamwork and collaborative software delivery
 
 ---
 
 ## Contact
 
-I'm open to internships, collaborations, or learning opportunities.  
+I'm open to internships
 📧 lanabalamir@gmail.com
